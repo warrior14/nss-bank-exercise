@@ -2,7 +2,7 @@
 using System;
 
 
-namespace Bank 
+namespace BankConsole
 {
     class Program
     {
