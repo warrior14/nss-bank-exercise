@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Bank
+namespace BankConsole
 {
     public class Person 
     {

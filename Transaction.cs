@@ -1,4 +1,4 @@
-namespace Bank
+namespace BankConsole
 {
     public class Transaction
     {
